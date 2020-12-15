@@ -1,5 +1,7 @@
 # ExpenseManagerWebServerSide
 
+## Server-side development in Java using Hibernate, JSP, Servlets & MySQL
+
 ![Capture](https://user-images.githubusercontent.com/74924818/102256344-f4dd3b80-3f13-11eb-8bc2-faa99e88c45f.PNG)
 
 ![Capture3](https://user-images.githubusercontent.com/74924818/102256352-f870c280-3f13-11eb-9d60-3140e5f2e17a.PNG)
